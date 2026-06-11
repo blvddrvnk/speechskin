@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+.idea/
+.vscode/
+.antigravitycli/
+.pytest_cache/
+*.wav
+
+# Secrets (API keys). Never commit.
+secrets.env
+
+# Per-user runtime settings written by slash commands.
+settings.json

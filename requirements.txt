@@ -1,0 +1,11 @@
+# Runtime
+keyboard
+numpy
+pycaw
+sounddevice
+soundfile
+pynput
+
+
+# Dev / test (not required to run the app)
+pytest
